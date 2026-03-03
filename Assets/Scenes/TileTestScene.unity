@@ -809,6 +809,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2806106163788773720, guid: 17318c27446961f4d8a4a5e8b7bc689f, type: 3}
+      propertyPath: jumpQueueTime
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2806106163788773720, guid: 17318c27446961f4d8a4a5e8b7bc689f, type: 3}
       propertyPath: resetDoubleJumpsOnWall
       value: 0
       objectReference: {fileID: 0}
@@ -822,15 +826,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2997291363803795004, guid: 17318c27446961f4d8a4a5e8b7bc689f, type: 3}
       propertyPath: m_Size.x
-      value: 0.5
+      value: 0.3
       objectReference: {fileID: 0}
     - target: {fileID: 2997291363803795004, guid: 17318c27446961f4d8a4a5e8b7bc689f, type: 3}
       propertyPath: m_Size.y
-      value: 0.5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2997291363803795004, guid: 17318c27446961f4d8a4a5e8b7bc689f, type: 3}
       propertyPath: m_Offset.y
-      value: 0
+      value: 0.25
       objectReference: {fileID: 0}
     - target: {fileID: 2997291363803795004, guid: 17318c27446961f4d8a4a5e8b7bc689f, type: 3}
       propertyPath: m_EdgeRadius
