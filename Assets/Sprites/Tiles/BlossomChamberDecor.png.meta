@@ -134,11 +134,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BlossomChamberDecor_0
+      name: GildedLockdoor
       rect:
         serializedVersion: 2
         x: 128
-        y: 80
+        y: 112
         width: 32
         height: 64
       alignment: 0
@@ -160,7 +160,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 96
+        y: 129
         width: 16
         height: 32
       alignment: 0
@@ -182,7 +182,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 64
+        y: 97
         width: 16
         height: 32
       alignment: 0
@@ -204,7 +204,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 64
+        y: 97
         width: 16
         height: 32
       alignment: 0
@@ -222,11 +222,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlossomChamberDecor_10
+      name: CrystalJumpPad
       rect:
         serializedVersion: 2
         x: 32
-        y: 64
+        y: 97
         width: 48
         height: 32
       alignment: 0
@@ -244,11 +244,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlossomChamberDecor_13
+      name: CrystalPushPad
       rect:
         serializedVersion: 2
         x: 80
-        y: 64
+        y: 97
         width: 48
         height: 32
       alignment: 0
@@ -266,11 +266,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlossomChamberDecor_26
+      name: BlossomGrass
       rect:
         serializedVersion: 2
         x: 0
-        y: 32
+        y: 65
         width: 16
         height: 32
       alignment: 0
@@ -288,11 +288,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlossomChamberDecor_27
+      name: BlossomGrass_1
       rect:
         serializedVersion: 2
         x: 16
-        y: 32
+        y: 65
         width: 16
         height: 32
       alignment: 0
@@ -310,11 +310,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlossomChamberDecor_28
+      name: BlossomGrass_3
       rect:
         serializedVersion: 2
         x: 32
-        y: 32
+        y: 65
         width: 32
         height: 32
       alignment: 0
@@ -332,11 +332,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlossomChamberDecor_30
+      name: BlossomPebble
       rect:
         serializedVersion: 2
         x: 64
-        y: 32
+        y: 65
         width: 16
         height: 32
       alignment: 0
@@ -354,11 +354,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlossomChamberDecor_32
+      name: GildedCeiliingLight_ON
       rect:
         serializedVersion: 2
-        x: 80
-        y: 32
+        x: 32
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -376,7 +376,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlossomChamberDecor_40
+      name: GildedLantern_ON
       rect:
         serializedVersion: 2
         x: 0
@@ -398,7 +398,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlossomChamberDecor_41
+      name: GildedLantern_OFF
       rect:
         serializedVersion: 2
         x: 16
@@ -419,6 +419,94 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: BlossomPebble_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 65
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac297efd1eed984ab20909dbe1f6f86
+      internalID: 7909056068630987975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GildedCeiliingLight_OFF
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377331cf25769294ba42eaafbba7dcd0
+      internalID: 1828227033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilacFlower
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d020237c8ec764c98bfd5346a23e60
+      internalID: 981416549494631898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilacFlower_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929ff18e8d004994da847221d1d15082
+      internalID: -265021840603383854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -435,12 +523,8 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      BlossomChamberDecor_0: 5386712191829289375
-      BlossomChamberDecor_1: 7909056068630987975
-      BlossomChamberDecor_10: 2081427512
       BlossomChamberDecor_11: 2098568785
       BlossomChamberDecor_12: -188517492
-      BlossomChamberDecor_13: 1440521353
       BlossomChamberDecor_14: 1703107262
       BlossomChamberDecor_15: 732079169
       BlossomChamberDecor_16: -417009370
@@ -451,14 +535,8 @@ TextureImporter:
       BlossomChamberDecor_23: -1143945761
       BlossomChamberDecor_24: -1790448661
       BlossomChamberDecor_25: 163483803
-      BlossomChamberDecor_26: -1133685745
-      BlossomChamberDecor_27: 813640644
-      BlossomChamberDecor_28: -195369821
       BlossomChamberDecor_29: -333670252
-      BlossomChamberDecor_3: 981416549494631898
-      BlossomChamberDecor_30: -1188308865
       BlossomChamberDecor_31: -1655672356
-      BlossomChamberDecor_32: -968613091
       BlossomChamberDecor_33: -2048276149
       BlossomChamberDecor_34: -1179374583
       BlossomChamberDecor_35: -1469837922
@@ -466,19 +544,30 @@ TextureImporter:
       BlossomChamberDecor_37: -431595554
       BlossomChamberDecor_38: 390270232
       BlossomChamberDecor_39: 547262501
-      BlossomChamberDecor_4: -265021840603383854
-      BlossomChamberDecor_40: -400527146
-      BlossomChamberDecor_41: 1794221773
       BlossomChamberDecor_42: -1795702320
       BlossomChamberDecor_43: 555795099
       BlossomChamberDecor_6: 1121975972839599220
       BlossomChamberDecor_7: 1555474610004378561
+      BlossomGrass: -1133685745
+      BlossomGrass_1: 813640644
+      BlossomGrass_3: -195369821
+      BlossomPebble: -1188308865
+      BlossomPebble_1: 7909056068630987975
       CrystalButton_OFF: 1685007587
       CrystalButton_OFF_: -1685292431
       CrystalButton_OFF_B: 1267387585
       CrystalButton_ON: -1580494676
+      CrystalJumpPad: 2081427512
+      CrystalPushPad: 1440521353
       CrystalSpike: -3802861817754266021
       CrystalSpike_B: -217212703894541428
+      GildedCeiliingLight_OFF: 1828227033
+      GildedCeiliingLight_ON: -968613091
+      GildedLantern_OFF: 1794221773
+      GildedLantern_ON: -400527146
+      GildedLockdoor: 5386712191829289375
+      LilacFlower: 981416549494631898
+      LilacFlower_1: -265021840603383854
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

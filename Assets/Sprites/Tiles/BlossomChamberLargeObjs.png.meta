@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: 799b1e27a0cc77146a2d7f8ee3f73db6
+guid: c05c6a4ee4730964387b115a57a78a2b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7649652278878179168
-    second: Savepointtest_0
+      213: -7745139202643642421
+    second: BlossomChamberLargeObjs_0
+  - first:
+      213: 7623837134152735657
+    second: BlossomChamberLargeObjs_1
+  - first:
+      213: -920072399115060873
+    second: BlossomChamberLargeObjs_2
+  - first:
+      213: 8029279663016957086
+    second: BlossomChamberLargeObjs_3
+  - first:
+      213: -1978039463665879311
+    second: BlossomChamberLargeObjs_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +125,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Savepointtest_0
+      name: BlessedFountain_OFF
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
+        y: 80
         width: 64
-        height: 96
+        height: 112
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +140,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 06f8ac1d736092a60800000000000000
-      internalID: 7649652278878179168
+      spriteID: bc739724eecb38490800000000000000
+      internalID: -7745139202643642421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlessedFounain_ON
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 64
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab1b9e0b7f4dc960800000000000000
+      internalID: 7623837134152735657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydraulicPowerCell
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09afaf6953353b945971dc72ff8ad943
+      internalID: 801117531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydraulicPowerCell_Back
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b650dff50a4a4447810aea847a9178a
+      internalID: -455607607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydraulicPowerCell_Water
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c6cbb9b541a5842afe44c605c2a44c
+      internalID: 676889981
       vertices: []
       indices: 
       edges: []
@@ -138,7 +238,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 4b095b6dc329d7c4bb7a8c46b5937b8d
+    spriteID: bbba31c805e970547ba295fec56b0a03
     internalID: 0
     vertices: []
     indices: 
@@ -146,9 +246,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":112.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Savepointtest_0: 7649652278878179168
+      BlessedFounain_ON: 7623837134152735657
+      BlessedFountain_OFF: -7745139202643642421
+      HydraulicPowerCell: 801117531
+      HydraulicPowerCell_Back: -455607607
+      HydraulicPowerCell_Water: 676889981
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
