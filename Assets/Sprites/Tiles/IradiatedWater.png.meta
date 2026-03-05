@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d66e501ffbe7ce749a187025038ba2c5
+guid: 215daa7dc65120a49a23374fab2eaa00
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3020507182233712304
-    second: RoyalBrick_0
+      213: 2228027685850029954
+    second: IradiatedWater_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,11 +113,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TL_RoyalBrick_0
+      name: IradiatedWater_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 64
+        y: 48
         width: 16
         height: 16
       alignment: 0
@@ -128,168 +128,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 059817998b00516d0800000000000000
-      internalID: -3020507182233712304
+      spriteID: 28f93dc206b8bee10800000000000000
+      internalID: 2228027685850029954
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TM_RoyalBrick_1
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5475801ada7878c469cd245364a6a0bd
-      internalID: 1803741796
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TR_RoyalBrick_2
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6ddcbfe1d60282240b207e9c1518ec7c
-      internalID: 815897130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ColT_RoyalBrick_3
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a5be06dc37a596742949807d2c6b3638
-      internalID: -2098120143
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RowL_RoyalBrick_4
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bb856ea996539e24a904efd06a4d5426
-      internalID: -914272622
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RowM_RoyalBrick_5
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8ba90d7e596da794d8f4687593f584db
-      internalID: -1709933779
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RowR_RoyalBrick_6
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4e50b77891db8ed4aa1669f458b6c666
-      internalID: 15977250
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MLRoyalBrick_7
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 177283da12e25b44aabe088f28f689a5
-      internalID: -1138870132
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MM_RoyalBrick_8
+      name: IradiatedWater_1
       rect:
         serializedVersion: 2
         x: 16
@@ -304,14 +150,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28861cba76fda514ca4ede89b6716625
-      internalID: 1509153434
+      spriteID: 2dceff99c84f82c4495ff6086562ee2b
+      internalID: -611424924
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MR_RoyalBrick_9
+      name: IradiatedWater_2
       rect:
         serializedVersion: 2
         x: 32
@@ -326,14 +172,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ae5b6778a292cf4189b6b1c49803030
-      internalID: -1791689129
+      spriteID: c91bd0f00dc761c48bbcf978d8ea9c64
+      internalID: -1840341591
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColM_RoyalBrick_10
+      name: IradiatedWater_3
       rect:
         serializedVersion: 2
         x: 48
@@ -348,14 +194,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0df6edbc26c081f41984061b7a6b73ed
-      internalID: 946417976
+      spriteID: 65a3300756d80dc48af1507fd7daf9a5
+      internalID: 770611734
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColCorT_RoyalBrick_11
+      name: IradiatedWater_4
       rect:
         serializedVersion: 2
         x: 64
@@ -370,14 +216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fabfb56cd11b5e043b0562a4f573c8cc
-      internalID: -1324527858
+      spriteID: 5f1fb9f121a6c9945bbc6b75ff282ae0
+      internalID: 124478453
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RowCorL_RoyalBrick_12
+      name: IradiatedWater_5
       rect:
         serializedVersion: 2
         x: 80
@@ -392,36 +238,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b84c300043f674748ad5cebe92acd1f6
-      internalID: 1964524738
+      spriteID: cf29f354a42caef4b8aeb0949bd17209
+      internalID: 47456184
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RowCorR_RoyalBrick_13
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d8216b24bcf3b8344b91edb04dd561de
-      internalID: -845470174
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BL_RoyalBrick_14
+      name: IradiatedWater_TL
       rect:
         serializedVersion: 2
         x: 0
@@ -436,14 +260,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c2eb41f7d643df40b808086f4038a90
-      internalID: -373650648
+      spriteID: f1b419de0544e544e9124926d3a4b570
+      internalID: 1424759960
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BM_RoyalBrick_15
+      name: IradiatedWater_O
       rect:
         serializedVersion: 2
         x: 16
@@ -458,14 +282,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c99463bcc8756c4da3eba9b9189dd27
-      internalID: 362289892
+      spriteID: 524d0142b1960be439499cc8a9bded89
+      internalID: -2120707785
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BR_RoyalBrick_16
+      name: IradiatedWater_TR
       rect:
         serializedVersion: 2
         x: 32
@@ -480,58 +304,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6bcb0a35e8a5d64a9b648e66b57b41f
-      internalID: -1414315890
+      spriteID: 53927850ebc6fee468da6aa011bf0ba2
+      internalID: 293487376
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Col_BRoyalBrick_17
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 049afb80330268643b83d2842f8f12d5
-      internalID: 584823654
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ColCorB_RoyalBrick_18
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 28a36c0c1e48052449983662d19fc038
-      internalID: 1451828146
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: CorTL_RoyalBrick_19
+      name: IradiatedWater_ML
       rect:
         serializedVersion: 2
         x: 0
@@ -546,14 +326,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce6c2c96e66152246803372c6275f724
-      internalID: -1401201702
+      spriteID: f5b3210c0411ae14485cf6d4f7e52710
+      internalID: -2079040600
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CorTR_RoyalBrick_20
+      name: IradiatedWater_M
       rect:
         serializedVersion: 2
         x: 16
@@ -568,14 +348,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 044f34a0482be774c8da28cc44a6dcb2
-      internalID: 1068403036
+      spriteID: 1d4e0a15bbf77b54d893ba9d0d3e51b9
+      internalID: 902824663
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Single_RoyalBrick_21
+      name: IradiatedWater_MR
       rect:
         serializedVersion: 2
         x: 32
@@ -590,14 +370,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2159ac991c8e9bf47812c97f71f16bce
-      internalID: -902171105
+      spriteID: d27daa4f18907ff48ad26f86d050a355
+      internalID: -296574963
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CorBL_RoyalBrick_22
+      name: IradiatedWater_BL
       rect:
         serializedVersion: 2
         x: 0
@@ -612,14 +392,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 88ebe1e79021b9f4db051c103d24332f
-      internalID: 1167642819
+      spriteID: 738828a6e3c6c1748a07603d868705e6
+      internalID: -534809875
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CorBR_RoyalBrick_23
+      name: IradiatedWater_BM
       rect:
         serializedVersion: 2
         x: 16
@@ -634,8 +414,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 290e5d28db55cb84da896cd2c3a2c076
-      internalID: 62732594
+      spriteID: 18ac5b74ce0f6e141871bfb2198fb3cb
+      internalID: 1891865837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IradiatedWater_BR
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7780aec66e65ee4f9cf732efafb54d6
+      internalID: -74552423
       vertices: []
       indices: 
       edges: []
@@ -644,7 +446,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 9b63dec8f6ecaf54d920a23e51c446dd
+    spriteID: e1fa46e3b95a1d94f90356111ad2142b
     internalID: 0
     vertices: []
     indices: 
@@ -656,30 +458,21 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      BL_RoyalBrick_14: -373650648
-      BM_RoyalBrick_15: 362289892
-      BR_RoyalBrick_16: -1414315890
-      ColCorB_RoyalBrick_18: 1451828146
-      ColCorT_RoyalBrick_11: -1324527858
-      ColM_RoyalBrick_10: 946417976
-      ColT_RoyalBrick_3: -2098120143
-      Col_BRoyalBrick_17: 584823654
-      CorBL_RoyalBrick_22: 1167642819
-      CorBR_RoyalBrick_23: 62732594
-      CorTL_RoyalBrick_19: -1401201702
-      CorTR_RoyalBrick_20: 1068403036
-      MLRoyalBrick_7: -1138870132
-      MM_RoyalBrick_8: 1509153434
-      MR_RoyalBrick_9: -1791689129
-      RowCorL_RoyalBrick_12: 1964524738
-      RowCorR_RoyalBrick_13: -845470174
-      RowL_RoyalBrick_4: -914272622
-      RowM_RoyalBrick_5: -1709933779
-      RowR_RoyalBrick_6: 15977250
-      Single_RoyalBrick_21: -902171105
-      TL_RoyalBrick_0: -3020507182233712304
-      TM_RoyalBrick_1: 1803741796
-      TR_RoyalBrick_2: 815897130
+      IradiatedWater_0: 2228027685850029954
+      IradiatedWater_1: -611424924
+      IradiatedWater_2: -1840341591
+      IradiatedWater_3: 770611734
+      IradiatedWater_4: 124478453
+      IradiatedWater_5: 47456184
+      IradiatedWater_BL: -534809875
+      IradiatedWater_BM: 1891865837
+      IradiatedWater_BR: -74552423
+      IradiatedWater_M: 902824663
+      IradiatedWater_ML: -2079040600
+      IradiatedWater_MR: -296574963
+      IradiatedWater_O: -2120707785
+      IradiatedWater_TL: 1424759960
+      IradiatedWater_TR: 293487376
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

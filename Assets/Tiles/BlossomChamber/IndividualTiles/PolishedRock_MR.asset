@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: PolishedRock_MR
   m_EditorClassIdentifier: UnityEngine.dll::UnityEngine.Tilemaps.Tile
-  m_Sprite: {fileID: 644603602, guid: f061bbaa7e556e84fa28186086b19352, type: 3}
+  m_Sprite: {fileID: -1400385964, guid: 0020a34220727434991d136a39cf8153, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
