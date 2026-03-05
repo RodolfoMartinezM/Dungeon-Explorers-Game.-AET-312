@@ -1307,15 +1307,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3418262288898852182, guid: fa43b482a242df042b62cb0e48a2e538, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3418262288898852182, guid: fa43b482a242df042b62cb0e48a2e538, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3418262288898852182, guid: fa43b482a242df042b62cb0e48a2e538, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3418262288898852182, guid: fa43b482a242df042b62cb0e48a2e538, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -1347,15 +1347,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6990873507258535387, guid: fa43b482a242df042b62cb0e48a2e538, type: 3}
       propertyPath: jumpValues.jumpForce
-      value: 700
+      value: 500
       objectReference: {fileID: 0}
     - target: {fileID: 6990873507258535387, guid: fa43b482a242df042b62cb0e48a2e538, type: 3}
       propertyPath: resetDoubleJumpsOnWall
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6990873507258535387, guid: fa43b482a242df042b62cb0e48a2e538, type: 3}
       propertyPath: doubleJumpValues.Array.data[0].jumpForce
-      value: 600
+      value: 400
       objectReference: {fileID: 0}
     - target: {fileID: 7379545154764411568, guid: fa43b482a242df042b62cb0e48a2e538, type: 3}
       propertyPath: m_LocalPosition.y
@@ -39590,6 +39590,7 @@ SceneRoots:
   m_Roots:
   - {fileID: 917709647}
   - {fileID: 454201422}
+  - {fileID: 1594408810}
   - {fileID: 7540830650445268542}
   - {fileID: 442811684}
   - {fileID: 1170803602}
@@ -39601,4 +39602,3 @@ SceneRoots:
   - {fileID: 1464044956}
   - {fileID: 3916491563419063586}
   - {fileID: 247601059}
-  - {fileID: 1594408810}
