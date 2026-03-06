@@ -5136,8 +5136,8 @@ Transform:
   m_GameObject: {fileID: 1313831685305525817}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.54, z: 0}
-  m_LocalScale: {x: 4, y: 4, z: 1}
+  m_LocalPosition: {x: 0, y: -0.55, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 7379545154764411568}
@@ -5191,12 +5191,12 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 5443065084555726681, guid: ad0443865a73ef84a9aaf952f5e071ed, type: 3}
+  m_Sprite: {fileID: -1767218458640148613, guid: d0e7bbb0a48e8b54882a6bdd512bfe72, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1.5, y: 1.5}
+  m_Size: {x: 1, y: 2}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -20192,23 +20192,23 @@ MonoBehaviour:
     crouchGravity: 7
   canSwim: 1
   jumpValues:
-    jumpForce: 600
+    jumpForce: 400
     jumpGravity: 1.5
     airHangThreshold: 0.35
     airHangGravity: 1.7
   coyoteTime: 0.5
   jumpQueueTime: 0.1
-  maxJumpSpeed: 2000
+  maxJumpSpeed: 400
   doubleJumps: 1
   doubleJumpValues:
-  - jumpForce: 400
+  - jumpForce: 300
     jumpGravity: 1.5
     airHangThreshold: 0.25
     airHangGravity: 1.5
   allowWallJump: 1
   resetDoubleJumpsOnWall: 0
   wallJumpValues:
-    jumpForce: 600
+    jumpForce: 400
     jumpGravity: 1.5
     airHangThreshold: 0.4
     airHangGravity: 0.8
@@ -20274,7 +20274,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0.25}
+  m_Offset: {x: 0, y: 0.45}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -20284,7 +20284,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.5, y: 1}
+  m_Size: {x: 0.5, y: 1.38}
   m_EdgeRadius: 0.25
 --- !u!50 &6104688170581256007
 Rigidbody2D:
