@@ -20192,23 +20192,23 @@ MonoBehaviour:
     crouchGravity: 7
   canSwim: 1
   jumpValues:
-    jumpForce: 400
+    jumpForce: 600
     jumpGravity: 1.5
     airHangThreshold: 0.35
     airHangGravity: 1.7
   coyoteTime: 0.5
   jumpQueueTime: 0.1
-  maxJumpSpeed: 400
+  maxJumpSpeed: 2000
   doubleJumps: 1
   doubleJumpValues:
-  - jumpForce: 300
+  - jumpForce: 400
     jumpGravity: 1.5
     airHangThreshold: 0.25
     airHangGravity: 1.5
   allowWallJump: 1
   resetDoubleJumpsOnWall: 0
   wallJumpValues:
-    jumpForce: 400
+    jumpForce: 600
     jumpGravity: 1.5
     airHangThreshold: 0.4
     airHangGravity: 0.8
