@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 8885876831773674092}
   - component: {fileID: 3978263175204278599}
   - component: {fileID: 3664542385110525438}
-  - component: {fileID: 8540025973934974582}
   - component: {fileID: -2822822831839211128}
   - component: {fileID: 1883280037358469679}
   m_Layer: 7
@@ -183,46 +182,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ObjectDestroyer
   consoleLog: 0
---- !u!114 &8540025973934974582
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3029683688216363522}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7e5d8de15459d4d3b9125242c3a14fec, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Trigger
-  triggerEnterEvent:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 3664542385110525438}
-        m_TargetAssemblyTypeName: ObjectDestroyer, Assembly-CSharp
-        m_MethodName: DestroyOtherObject
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-  triggerExitEvent:
-    triggerExitEvent:
-      m_PersistentCalls:
-        m_Calls: []
-  triggerableByPlayer: 0
-  triggerableByObject: 0
-  triggerableByTaggedObject: 1
-  objectTag: EnemyNPCs
-  numberOfUses: -1
-  drawTriggerArea: 1
-  drawTriggerLines: 1
-  triggerAreaColor: {r: 0, g: 1, b: 0, a: 0.5}
-  consoleLogOnTrigger: 0
 --- !u!114 &-2822822831839211128
 MonoBehaviour:
   m_ObjectHideFlags: 0
