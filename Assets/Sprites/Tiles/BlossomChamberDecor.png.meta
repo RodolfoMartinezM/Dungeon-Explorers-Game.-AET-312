@@ -69,7 +69,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 16
@@ -222,13 +222,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CrystalJumpPad
+      name: CrystalJumpPad_L
       rect:
         serializedVersion: 2
         x: 32
-        y: 96
-        width: 48
-        height: 32
+        y: 112
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -903,6 +903,160 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: CrystalButton_OFF_Bottom
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a81a26449e89294689a50048d062a98
+      internalID: -920356129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalButton_ON_Bottom
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c590c4980e376da479f411a2dba8fab6
+      internalID: 1307041010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalJumpPad_M
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a6d6008fe7dd04ab63ee7efa8e3460
+      internalID: 427892411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalJumpPad_R
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19b159ff3b82f648983448b0780dc80
+      internalID: -1931973715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlossomChamberDecor_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7455f362d6250ac428d6b68df51f5410
+      internalID: 930332054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalJumpPad_M_Bottom
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0288534a2cf08f24288f21944b25dd39
+      internalID: 244937132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlossomChamberDecor_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29c51363b7573e4a9215ec6f361a206
+      internalID: -1830083377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -931,7 +1085,6 @@ TextureImporter:
       BlossomChamberDecor_17: 277926760
       BlossomChamberDecor_2: 1380951303
       BlossomChamberDecor_20: 930332054
-      BlossomChamberDecor_21: -552020643
       BlossomChamberDecor_22: -1830083377
       BlossomChamberDecor_23: -1143945761
       BlossomChamberDecor_24: -1790448661
@@ -960,10 +1113,13 @@ TextureImporter:
       BlossomPebble: -1188308865
       BlossomPebble_1: 7909056068630987975
       CrystalButton_OFF: 1685007587
-      CrystalButton_OFF_: -1685292431
-      CrystalButton_OFF_B: 1267387585
+      CrystalButton_OFF_Bottom: -920356129
       CrystalButton_ON: -1580494676
-      CrystalJumpPad: 2081427512
+      CrystalButton_ON_Bottom: 1307041010
+      CrystalJumpPad_L: 2081427512
+      CrystalJumpPad_M: 427892411
+      CrystalJumpPad_M_Bottom: -552020643
+      CrystalJumpPad_R: -1931973715
       CrystalPushPad: 1440521353
       CrystalSpike: -3802861817754266021
       CrystalSpike_B: -217212703894541428
