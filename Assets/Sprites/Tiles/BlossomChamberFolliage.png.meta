@@ -1,22 +1,31 @@
 fileFormatVersion: 2
-guid: c05c6a4ee4730964387b115a57a78a2b
+guid: ac1e19bef98113d47acd978d1dd9defe
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7745139202643642421
-    second: BlossomChamberLargeObjs_0
+      213: -7352276577274805623
+    second: BlossomChamberFolliage_0
   - first:
-      213: 7623837134152735657
-    second: BlossomChamberLargeObjs_1
+      213: -8808873864193711611
+    second: BlossomChamberFolliage_1
   - first:
-      213: -920072399115060873
-    second: BlossomChamberLargeObjs_2
+      213: 6044592026986692864
+    second: BlossomChamberFolliage_2
   - first:
-      213: 8029279663016957086
-    second: BlossomChamberLargeObjs_3
+      213: -6486033792028971824
+    second: BlossomChamberFolliage_3
   - first:
-      213: -1978039463665879311
-    second: BlossomChamberLargeObjs_4
+      213: 6607781995487830005
+    second: BlossomChamberFolliage_4
+  - first:
+      213: -2423206835768500325
+    second: BlossomChamberFolliage_5
+  - first:
+      213: -5582875153547573555
+    second: BlossomChamberFolliage_6
+  - first:
+      213: -6265865478659988327
+    second: BlossomChamberFolliage_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -49,7 +58,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -63,7 +72,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -87,7 +96,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -125,155 +134,177 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BlessedFountain_OFF
+      name: BlossomChamberFolliage_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 112
-        width: 64
-        height: 112
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bc739724eecb38490800000000000000
-      internalID: -7745139202643642421
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlessedFounain_ON
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 112
-        width: 64
-        height: 112
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9ab1b9e0b7f4dc960800000000000000
-      internalID: 7623837134152735657
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HydraulicPowerCell
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 32
-        width: 48
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 09afaf6953353b945971dc72ff8ad943
-      internalID: 801117531
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HydraulicPowerCell_Back
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 32
-        width: 48
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7b650dff50a4a4447810aea847a9178a
-      internalID: -455607607
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HydraulicPowerCell_Water
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 32
-        width: 48
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 46c6cbb9b541a5842afe44c605c2a44c
-      internalID: 676889981
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MechanicalPlatform
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 16
-        width: 64
+        y: 46
+        width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 15e468a5b8c11aa47b5c03909ac29fdc
-      internalID: 1959832252
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GildedLockdoor
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 48
-        width: 32
-        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 94b7312033522b0419a0c907e9381189
-      internalID: 1821977165
+      spriteID: 9824c11386777f990800000000000000
+      internalID: -7352276577274805623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlossomChamberFolliage_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 46
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502e28554e790c580800000000000000
+      internalID: -8808873864193711611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlossomChamberFolliage_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 46
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00143b44c64b2e350800000000000000
+      internalID: 6044592026986692864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlossomChamberFolliage_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 46
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dceee071aafcf5a0800000000000000
+      internalID: -6486033792028971824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlossomChamberFolliage_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 46
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff164227be83bb50800000000000000
+      internalID: 6607781995487830005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlossomChamberFolliage_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 14
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f58b8b83a0f5ed0800000000000000
+      internalID: -2423206835768500325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlossomChamberFolliage_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 14
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6417f80a4a582b0800000000000000
+      internalID: -5582875153547573555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlossomChamberFolliage_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 14
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994a61e8b8c2b09a0800000000000000
+      internalID: -6265865478659988327
       vertices: []
       indices: 
       edges: []
@@ -282,7 +313,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: bbba31c805e970547ba295fec56b0a03
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -290,17 +321,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":112.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      BlessedFounain_ON: 7623837134152735657
-      BlessedFountain_OFF: -7745139202643642421
-      GildedLockdoor: 1821977165
-      HydraulicPowerCell: 801117531
-      HydraulicPowerCell_Back: -455607607
-      HydraulicPowerCell_Water: 676889981
-      MechanicalPlatform: 1959832252
+      BlossomChamberFolliage_0: -7352276577274805623
+      BlossomChamberFolliage_1: -8808873864193711611
+      BlossomChamberFolliage_2: 6044592026986692864
+      BlossomChamberFolliage_3: -6486033792028971824
+      BlossomChamberFolliage_4: 6607781995487830005
+      BlossomChamberFolliage_5: -2423206835768500325
+      BlossomChamberFolliage_6: -5582875153547573555
+      BlossomChamberFolliage_7: -6265865478659988327
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

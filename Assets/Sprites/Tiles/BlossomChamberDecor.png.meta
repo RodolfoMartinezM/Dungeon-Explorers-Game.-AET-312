@@ -134,35 +134,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GildedLockdoor
+      name: ElectrIcalStation_OFF_Highlights
       rect:
         serializedVersion: 2
-        x: 128
-        y: 112
+        x: 96
+        y: 64
         width: 32
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f99204dc23271ca40800000000000000
-      internalID: 5386712191829289375
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: CrystalSpike
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 144
-        width: 16
-        height: 16
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -182,7 +160,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 96
+        y: 32
         width: 16
         height: 32
       alignment: 0
@@ -204,7 +182,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 96
+        y: 32
         width: 16
         height: 32
       alignment: 0
@@ -226,7 +204,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 96
+        y: 32
         width: 48
         height: 32
       alignment: 0
@@ -248,7 +226,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 80
-        y: 96
+        y: 32
         width: 48
         height: 32
       alignment: 0
@@ -261,94 +239,6 @@ TextureImporter:
       bones: []
       spriteID: e1a49baf4e1240a42a8818af1f8035a5
       internalID: 1440521353
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlossomGrass
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c9ff9e00aaf13064c9c9047d5e2bda42
-      internalID: -1133685745
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlossomGrass_1
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 255866d75e6909045b9e4941af339241
-      internalID: 813640644
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlossomGrass_3
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 04ab8c090b2487e4ea4342d25a0c7aa7
-      internalID: -195369821
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlossomPebble
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8d8682fca2b033242919fb757a1ec331
-      internalID: -1188308865
       vertices: []
       indices: 
       edges: []
@@ -398,28 +288,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlossomPebble_1
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bac297efd1eed984ab20909dbe1f6f86
-      internalID: 7909056068630987975
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: GildedCeiliingLight_OFF
       rect:
         serializedVersion: 2
@@ -464,123 +332,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LilacFlower_1
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 929ff18e8d004994da847221d1d15082
-      internalID: -265021840603383854
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlossomChamberDecor_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 65733373e1a1d8d43b27a95a13ee01a4
-      internalID: -355856922
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlossomChamberDecor_1
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cb74990779cda0641badb6832045c09f
-      internalID: -422372460
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlossomChamberDecor_2
+      name: ElectrIcalStation_OFF
       rect:
         serializedVersion: 2
         x: 0
         y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aa41e507626f4a7489e61e40b3631c2d
-      internalID: 1380951303
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlossomChamberDecor_3
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 31eb6773687b3744eb010d91fcfcb61c
-      internalID: 1816852072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlossomChamberDecor_4
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 80
-        width: 16
-        height: 16
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -596,79 +354,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlossomChamberDecor_5
+      name: ElectrIcalStation_ON_Highlights
       rect:
         serializedVersion: 2
-        x: 32
+        x: 64
         y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 62bd4e504678ce2499b0517d2c4aa4c3
-      internalID: 289783709
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlossomChamberDecor_6
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4efbde1a21d0b4e4e9a21a97d787eed5
-      internalID: 1121975972839599220
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlossomChamberDecor_7
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 128
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5085fc4e2094dc24cae2402cc8fa1e7f
-      internalID: 1555474610004378561
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlossomChamberDecor_8
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 80
-        width: 16
-        height: 16
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -684,13 +376,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlossomChamberDecor_9
+      name: ElectrIcalStation_ON
       rect:
         serializedVersion: 2
-        x: 64
+        x: 32
         y: 64
-        width: 16
-        height: 16
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -701,50 +393,6 @@ TextureImporter:
       bones: []
       spriteID: b1bc14a3b2abebe49b0f29ecc520859b
       internalID: -1775818523
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlossomChamberDecor_10
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a9328eeec883ca3448c5cc8df7d1a320
-      internalID: 1887045925
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlossomChamberDecor_11
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b782572e51a82b9468617f0e69e7dbab
-      internalID: 2098568785
       vertices: []
       indices: 
       edges: []
@@ -812,14 +460,11 @@ TextureImporter:
       BlossomChamberDecor_37: -431595554
       BlossomChamberDecor_38: 390270232
       BlossomChamberDecor_39: 547262501
-      BlossomChamberDecor_4: 383333943
       BlossomChamberDecor_42: -1795702320
       BlossomChamberDecor_43: 555795099
       BlossomChamberDecor_5: 289783709
       BlossomChamberDecor_6: 1121975972839599220
       BlossomChamberDecor_7: 1555474610004378561
-      BlossomChamberDecor_8: -724279370
-      BlossomChamberDecor_9: -1775818523
       BlossomGrass: -1133685745
       BlossomGrass_1: 813640644
       BlossomGrass_3: -195369821
@@ -834,8 +479,11 @@ TextureImporter:
       CrystalJumpPad_M: 427892411
       CrystalJumpPad_M_Bottom: -552020643
       CrystalJumpPad_R: -1931973715
-      CrystalSpike: -3802861817754266021
       CrystalSpike_B: -217212703894541428
+      ElectrIcalStation_OFF: 383333943
+      ElectrIcalStation_OFF_Highlights: -3802861817754266021
+      ElectrIcalStation_ON: -1775818523
+      ElectrIcalStation_ON_Highlights: -724279370
       GildedCeiliingLight_OFF: 1828227033
       GildedCeiliingLight_ON: -188517492
       GildedLantern_OFF: 1794221773
