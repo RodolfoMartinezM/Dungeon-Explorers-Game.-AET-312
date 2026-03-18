@@ -175,10 +175,10 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: -0.5, y: 0.5}
-      - {x: 0.5, y: 0.5}
-      - {x: 0.5, y: -1}
-      - {x: -0.5, y: -1}
+    - - {x: -0.5, y: 0.75}
+      - {x: 0.5, y: 0.75}
+      - {x: 1, y: -1}
+      - {x: -1, y: -1}
   m_UseDelaunayMesh: 1
 --- !u!114 &4558000196984185731
 MonoBehaviour:
@@ -332,6 +332,7 @@ GameObject:
   - component: {fileID: 8855205665236684122}
   - component: {fileID: 4047826486177172309}
   - component: {fileID: 3703881543300201356}
+  - component: {fileID: 1590118909088854678}
   m_Layer: 0
   m_Name: TankEnemy
   m_TagString: EnemyNPCs
@@ -348,7 +349,7 @@ Transform:
   m_GameObject: {fileID: 3736791122539453336}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 25.809807, y: -0.059501648, z: 0}
+  m_LocalPosition: {x: 30, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -392,7 +393,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: -1.5}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -402,7 +403,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 8, y: 8}
+  m_Size: {x: 4, y: 5}
   m_EdgeRadius: 0
 --- !u!50 &5365952006148420326
 Rigidbody2D:
@@ -472,6 +473,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ObjectDestroyer
   consoleLog: 0
+--- !u!114 &1590118909088854678
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3736791122539453336}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ab69626d58f646039ac43630867bacc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MoveTowardsTarget
+  targetIsPlayer: 1
+  alternativeTarget: {fileID: 0}
+  moveSpeed: 15
+  maxSpeed: 50
+  moveInXDirection: 1
+  moveInYDirection: 1
 --- !u!1 &3918625998999036974
 GameObject:
   m_ObjectHideFlags: 0
@@ -591,6 +610,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+      - m_Target: {fileID: 5269683092842722294}
+        m_TargetAssemblyTypeName: UnityEngine.SpriteRenderer, UnityEngine
+        m_MethodName: set_flipX
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   triggerExitEvent:
     triggerExitEvent:
       m_PersistentCalls:
@@ -681,7 +712,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 6472324339480806699, guid: d7947734e07884390aef7cb2e18ed80b, type: 2}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: e8f2a1b9ea7a24b8bb5ac807c3c2ba13, type: 3}
+  m_Resource: {fileID: 8300000, guid: cf810e848f9173b4fa13b216294e3714, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -885,6 +916,18 @@ MonoBehaviour:
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 5269683092842722294}
+        m_TargetAssemblyTypeName: UnityEngine.SpriteRenderer, UnityEngine
+        m_MethodName: set_flipX
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
         m_CallState: 2
   triggerExitEvent:
     triggerExitEvent:
