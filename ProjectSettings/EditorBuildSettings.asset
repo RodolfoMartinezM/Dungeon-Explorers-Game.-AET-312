@@ -9,15 +9,27 @@ EditorBuildSettings:
     path: Assets/Scenes/UiScenes/TitleScreen.unity
     guid: ce3f852853f994bf5836effaab3dfe0b
   - enabled: 1
-    path: Assets/Scenes/UiScenes/WinScreen.unity
-    guid: ca24066a358f64121aa08929e28f3586
-  - enabled: 1
-    path: Assets/Scenes/TileTestScene.unity
-    guid: 8da2ecc45ad774b41bec385f8a33ab00
-  - enabled: 1
     path: Assets/Scenes/TutorialLevel.unity
     guid: 6751cf92112254e4ab8ee69dd58a66b7
   - enabled: 1
+    path: Assets/Scenes/SurvivorsCamp.unity
+    guid: 1d33260e5c38529478362c195efc1d90
+  - enabled: 1
+    path: Assets/Scenes/BC_Tier1_A.unity
+    guid: 624b615ac91c6604ea9d2846a3deefa8
+  - enabled: 1
+    path: Assets/Scenes/BC_Tier2_A.unity
+    guid: 1a81a955cb7d6e84fa60254bb4816257
+  - enabled: 1
+    path: Assets/Scenes/BC_Tier3_A.unity
+    guid: 9db1f258b6a38d7468d9a10bc789a990
+  - enabled: 1
+    path: Assets/Scenes/UiScenes/WinScreen.unity
+    guid: ca24066a358f64121aa08929e28f3586
+  - enabled: 0
+    path: Assets/Scenes/TileTestScene.unity
+    guid: 8da2ecc45ad774b41bec385f8a33ab00
+  - enabled: 0
     path: Assets/Scenes/BlossomChambers_L1.unity
     guid: 4920dc77fbb690d43964d5899c5b29cb
   m_configObjects:

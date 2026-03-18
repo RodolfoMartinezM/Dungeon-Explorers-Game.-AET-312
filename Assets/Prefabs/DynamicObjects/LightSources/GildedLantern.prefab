@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 7894432845564879275}
   - component: {fileID: 3968725352445289017}
   m_Layer: 0
-  m_Name: GildedLantern_OFF
+  m_Name: GildedLantern_ON
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
