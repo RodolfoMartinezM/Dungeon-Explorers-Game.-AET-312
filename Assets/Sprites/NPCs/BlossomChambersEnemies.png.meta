@@ -117,7 +117,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
+        y: 225
         width: 64
         height: 58
       alignment: 0
@@ -130,6 +130,28 @@ TextureImporter:
       bones: []
       spriteID: 289f4784628cf9620800000000000000
       internalID: 2783163161488193922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BCBoss
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc0a1d62aad25f4bb4ef5c6cb180ede
+      internalID: 689125920
       vertices: []
       indices: 
       edges: []
@@ -148,6 +170,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+      BCBoss: 689125920
       CorruptedExecutor: 2783163161488193922
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
