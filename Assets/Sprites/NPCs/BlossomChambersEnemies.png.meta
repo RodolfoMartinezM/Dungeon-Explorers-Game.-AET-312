@@ -117,7 +117,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 225
+        y: 226
         width: 64
         height: 58
       alignment: 0
@@ -135,15 +135,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BCBoss
+      name: InfestedScarab_1
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 128
-        height: 129
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -152,6 +152,116 @@ TextureImporter:
       bones: []
       spriteID: 5fc0a1d62aad25f4bb4ef5c6cb180ede
       internalID: 689125920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfestedScarab_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57365cd7a92489d4dafba1605c5044e9
+      internalID: 1461923871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfestedScarab_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732437ea11129034081d8eb7e797afb6
+      internalID: 941265556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfestedScarab_4
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcb38fae8b687440888f8bb0c5101b5
+      internalID: -1158635748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfestedScarab_5
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ee5ca6d2e5a4d41a78d0b5d91bdff7
+      internalID: -1390586426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfestedScarab_6
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc2f610e33e5924eb08c2e49200ef8c
+      internalID: -1181161407
       vertices: []
       indices: 
       edges: []
@@ -170,8 +280,13 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      BCBoss: 689125920
       CorruptedExecutor: 2783163161488193922
+      InfestedScarab_1: 689125920
+      InfestedScarab_2: 1461923871
+      InfestedScarab_3: 941265556
+      InfestedScarab_4: -1158635748
+      InfestedScarab_5: -1390586426
+      InfestedScarab_6: -1181161407
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

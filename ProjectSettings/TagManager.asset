@@ -8,6 +8,7 @@ TagManager:
   - PlayerProjectile
   - EnemyNPCs
   - EnemyProjectile
+  - FriendlyNPC
   layers:
   - Default
   - TransparentFX
