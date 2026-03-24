@@ -9,8 +9,8 @@ EditorBuildSettings:
     path: Assets/Scenes/UiScenes/TitleScreen.unity
     guid: ce3f852853f994bf5836effaab3dfe0b
   - enabled: 1
-    path: Assets/Scenes/TutorialLevel.unity
-    guid: 6751cf92112254e4ab8ee69dd58a66b7
+    path: Assets/Scenes/IntroTutorial_A.unity
+    guid: 6a4530246ebae454ab08196531ac9682
   - enabled: 1
     path: Assets/Scenes/SurvivorsCamp.unity
     guid: 1d33260e5c38529478362c195efc1d90
@@ -24,6 +24,9 @@ EditorBuildSettings:
     path: Assets/Scenes/BC_Tier3_A.unity
     guid: 9db1f258b6a38d7468d9a10bc789a990
   - enabled: 1
+    path: Assets/Scenes/BC_Tier4_A.unity
+    guid: 7be9f26a6db03984c9486966d2a46f0a
+  - enabled: 1
     path: Assets/Scenes/UiScenes/WinScreen.unity
     guid: ca24066a358f64121aa08929e28f3586
   - enabled: 0
@@ -32,6 +35,9 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/BlossomChambers_L1.unity
     guid: 4920dc77fbb690d43964d5899c5b29cb
+  - enabled: 0
+    path: Assets/Scenes/TutorialLevel.unity
+    guid: 6751cf92112254e4ab8ee69dd58a66b7
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 82921a2a75cbb4c4a82ed12cbad44436, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
