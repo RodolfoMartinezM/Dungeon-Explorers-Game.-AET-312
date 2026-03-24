@@ -505,7 +505,7 @@ GameObject:
   - component: {fileID: 8180301385908817499}
   m_Layer: 0
   m_Name: PlayerPathfind_LEFT
-  m_TagString: Untagged
+  m_TagString: EnemyNPCs
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -860,7 +860,7 @@ GameObject:
   - component: {fileID: 2684843932206785198}
   m_Layer: 0
   m_Name: PlayerPathfind_RIGHT
-  m_TagString: Untagged
+  m_TagString: EnemyNPCs
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1088,7 +1088,7 @@ GameObject:
   - component: {fileID: 4641375893579624642}
   m_Layer: 0
   m_Name: PlayerPathfind_Center
-  m_TagString: Untagged
+  m_TagString: EnemyNPCs
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

@@ -1,0 +1,411 @@
+fileFormatVersion: 2
+guid: dd4db0aaa285b8046946cae394fd4c9b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9179191267778101638
+    second: TankBlastAnim_0
+  - first:
+      213: -3588921548569184000
+    second: TankBlastAnim_1
+  - first:
+      213: 4661667511166176538
+    second: TankBlastAnim_2
+  - first:
+      213: 5766670938665381783
+    second: TankBlastAnim_3
+  - first:
+      213: 8473239279994603443
+    second: TankBlastAnim_4
+  - first:
+      213: 2927221270668931912
+    second: TankBlastAnim_5
+  - first:
+      213: 733792881370092455
+    second: TankBlastAnim_6
+  - first:
+      213: 4449210847549245500
+    second: TankBlastAnim_7
+  - first:
+      213: -1684922474595588194
+    second: TankBlastAnim_8
+  - first:
+      213: -7097536848976379816
+    second: TankBlastAnim_9
+  - first:
+      213: -2976686134049627412
+    second: TankBlastAnim_10
+  - first:
+      213: -5199250629935389447
+    second: TankBlastAnim_11
+  - first:
+      213: -3323312201119654760
+    second: TankBlastAnim_12
+  - first:
+      213: 6028183450480695194
+    second: TankBlastAnim_13
+  - first:
+      213: 1464025155208987761
+    second: TankBlastAnim_14
+  - first:
+      213: -2922100620251320559
+    second: TankBlastAnim_15
+  - first:
+      213: 2489840110105897144
+    second: TankBlastAnim_16
+  - first:
+      213: -6460250399431163859
+    second: TankBlastAnim_17
+  - first:
+      213: 6014210164954561949
+    second: TankBlastAnim_18
+  - first:
+      213: 5687040268857469722
+    second: TankBlastAnim_19
+  - first:
+      213: 5443183251444182489
+    second: TankBlastAnim_20
+  - first:
+      213: -6741459134693310590
+    second: TankBlastAnim_21
+  - first:
+      213: -6348198082643334343
+    second: TankBlastAnim_22
+  - first:
+      213: -3779814843018835133
+    second: TankBlastAnim_23
+  - first:
+      213: 1192743110166165900
+    second: TankBlastAnim_24
+  - first:
+      213: 2754546210280115201
+    second: TankBlastAnim_25
+  - first:
+      213: -1087352382206443112
+    second: TankBlastAnim_26
+  - first:
+      213: 5956811848725173122
+    second: TankBlastAnim_27
+  - first:
+      213: -2732211329338751828
+    second: TankBlastAnim_28
+  - first:
+      213: -1121151967370126582
+    second: TankBlastAnim_29
+  - first:
+      213: -8058528241874523472
+    second: TankBlastAnim_30
+  - first:
+      213: 6950180747621780668
+    second: TankBlastAnim_31
+  - first:
+      213: 6865579950964169606
+    second: TankBlastAnim_32
+  - first:
+      213: -6938153236637835976
+    second: TankBlastAnim_33
+  - first:
+      213: -4702442113202670366
+    second: TankBlastAnim_34
+  - first:
+      213: 3769215130992715825
+    second: TankBlastAnim_35
+  - first:
+      213: 6910187275086199208
+    second: TankBlastAnim_36
+  - first:
+      213: -8335515173393554933
+    second: TankBlastAnim_37
+  - first:
+      213: 2073366430046745213
+    second: TankBlastAnim_38
+  - first:
+      213: -2876787762593555776
+    second: TankBlastAnim_39
+  - first:
+      213: 6873992587183597236
+    second: TankBlastAnim_40
+  - first:
+      213: -8121246883141249035
+    second: TankBlastAnim_41
+  - first:
+      213: -6012834387717063108
+    second: TankBlastAnim_42
+  - first:
+      213: -2795274384886715597
+    second: TankBlastAnim_43
+  - first:
+      213: -3744134570990849213
+    second: TankBlastAnim_44
+  - first:
+      213: -4936105206231457686
+    second: TankBlastAnim_45
+  - first:
+      213: -6095170055711286674
+    second: TankBlastAnim_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TankBlastAnim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ef7b6ec26fc9080800000000000000
+      internalID: -9179191267778101638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TankBlastAnim_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009f9c2ddd6913ec0800000000000000
+      internalID: -3588921548569184000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TankBlastAnim_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d0a0027e191b040800000000000000
+      internalID: 4661667511166176538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TankBlastAnim_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fe7b36aa4570050800000000000000
+      internalID: 5766670938665381783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TankBlastAnim_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b707f46b3ef69570800000000000000
+      internalID: 8473239279994603443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TankBlastAnim_5
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84370319c349f9820800000000000000
+      internalID: 2927221270668931912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 743b60eb1873d524e88ede0d219c18bf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":160.0,"y":160.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      TankBlastAnim_0: -9179191267778101638
+      TankBlastAnim_1: -3588921548569184000
+      TankBlastAnim_2: 4661667511166176538
+      TankBlastAnim_3: 5766670938665381783
+      TankBlastAnim_4: 8473239279994603443
+      TankBlastAnim_5: 2927221270668931912
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
