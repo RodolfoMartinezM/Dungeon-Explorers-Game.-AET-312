@@ -33,10 +33,10 @@ EditorBuildSettings:
     path: Assets/Scenes/TileTestScene.unity
     guid: 8da2ecc45ad774b41bec385f8a33ab00
   - enabled: 0
-    path: Assets/Scenes/BlossomChambers_L1.unity
+    path: Assets/Scenes/OldScenes/BlossomChambers_L1.unity
     guid: 4920dc77fbb690d43964d5899c5b29cb
   - enabled: 0
-    path: Assets/Scenes/TutorialLevel.unity
+    path: Assets/Scenes/OldScenes/TutorialLevel.unity
     guid: 6751cf92112254e4ab8ee69dd58a66b7
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 82921a2a75cbb4c4a82ed12cbad44436, type: 2}
