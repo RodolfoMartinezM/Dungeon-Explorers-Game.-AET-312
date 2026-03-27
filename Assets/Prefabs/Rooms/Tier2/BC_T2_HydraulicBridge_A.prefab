@@ -36326,7 +36326,7 @@ Tilemap:
       - {fileID: -967142093, guid: 270a779a36c92f540a30ab80d536e20e, type: 3}
       - {fileID: -1846657914, guid: 270a779a36c92f540a30ab80d536e20e, type: 3}
       - {fileID: 1840293268, guid: 270a779a36c92f540a30ab80d536e20e, type: 3}
-      m_AnimationSpeed: 10
+      m_AnimationSpeed: 10.000001
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 56, y: -9, z: 0}
@@ -36391,7 +36391,7 @@ Tilemap:
       - {fileID: -967142093, guid: 270a779a36c92f540a30ab80d536e20e, type: 3}
       - {fileID: -1846657914, guid: 270a779a36c92f540a30ab80d536e20e, type: 3}
       - {fileID: 1840293268, guid: 270a779a36c92f540a30ab80d536e20e, type: 3}
-      m_AnimationSpeed: 10
+      m_AnimationSpeed: 10.000001
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 66, y: -9, z: 0}
@@ -36586,7 +36586,7 @@ Tilemap:
       - {fileID: -967142093, guid: 270a779a36c92f540a30ab80d536e20e, type: 3}
       - {fileID: -1846657914, guid: 270a779a36c92f540a30ab80d536e20e, type: 3}
       - {fileID: 1840293268, guid: 270a779a36c92f540a30ab80d536e20e, type: 3}
-      m_AnimationSpeed: 10.000001
+      m_AnimationSpeed: 10
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 24, y: 1, z: 0}
@@ -38027,6 +38027,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2486111417207194774}
     m_Modifications:
+    - target: {fileID: 88290523629631996, guid: 1555bb89fe950f0478b2a7253a163ea7, type: 3}
+      propertyPath: timedEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_FloatArgument
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 1545702697686007554, guid: 1555bb89fe950f0478b2a7253a163ea7, type: 3}
+      propertyPath: timeToWait
+      value: 20
+      objectReference: {fileID: 0}
     - target: {fileID: 1545702697686007554, guid: 1555bb89fe950f0478b2a7253a163ea7, type: 3}
       propertyPath: timedEvent.m_PersistentCalls.m_Calls.Array.size
       value: 6

@@ -89902,6 +89902,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6054999963072212621}
     m_Modifications:
+    - target: {fileID: 1810264928087486186, guid: e62f64d65638d4b41991409a0769d075, type: 3}
+      propertyPath: speed
+      value: 0.075
+      objectReference: {fileID: 0}
     - target: {fileID: 3308669626422278852, guid: e62f64d65638d4b41991409a0769d075, type: 3}
       propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[2].m_Target
       value: 
