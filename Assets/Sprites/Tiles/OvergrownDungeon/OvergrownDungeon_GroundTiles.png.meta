@@ -3873,7 +3873,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3895,7 +3895,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3917,7 +3917,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3939,7 +3939,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3948,6 +3948,94 @@ TextureImporter:
       bones: []
       spriteID: 7a6c6f8988a770f42881f697ae7b46ef
       internalID: 219959739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OvergrownDungeon_GroundTiles_174
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c553f455901744ea42fa2f6d70b50e
+      internalID: -648862619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OvergrownDungeon_GroundTiles_175
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadd26c67b11f03408b1a0d3f988c281
+      internalID: -1836889834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OvergrownDungeon_GroundTiles_176
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95550c98423330d47b7c0db9073ce389
+      internalID: 1470020002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OvergrownDungeon_GroundTiles_177
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883d7d3c7dc013240b69be9d35c4581e
+      internalID: 2060018932
       vertices: []
       indices: 
       edges: []
@@ -4052,6 +4140,10 @@ TextureImporter:
       OvergrownDungeon_GroundTiles_171: 963666481
       OvergrownDungeon_GroundTiles_172: -901557068
       OvergrownDungeon_GroundTiles_173: 219959739
+      OvergrownDungeon_GroundTiles_174: -648862619
+      OvergrownDungeon_GroundTiles_175: -1836889834
+      OvergrownDungeon_GroundTiles_176: 1470020002
+      OvergrownDungeon_GroundTiles_177: 2060018932
       OvergrownDungeon_GroundTiles_18: -1598998212
       OvergrownDungeon_GroundTiles_19: 271521996
       OvergrownDungeon_GroundTiles_2: 4970281382559081772
