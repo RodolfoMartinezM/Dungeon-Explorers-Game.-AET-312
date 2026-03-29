@@ -16358,9 +16358,13 @@ PrefabInstance:
       propertyPath: m_ReferenceResolution.x
       value: 800
       objectReference: {fileID: 0}
+    - target: {fileID: 1507269966379010789, guid: 25ff22ed88dc840e4b58ccd99d36203f, type: 3}
+      propertyPath: m_ReferencePixelsPerUnit
+      value: 16
+      objectReference: {fileID: 0}
     - target: {fileID: 1640327156479301165, guid: 25ff22ed88dc840e4b58ccd99d36203f, type: 3}
       propertyPath: orthographic size
-      value: 27
+      value: 11.25
       objectReference: {fileID: 0}
     - target: {fileID: 6385247073310385050, guid: 25ff22ed88dc840e4b58ccd99d36203f, type: 3}
       propertyPath: xSmoothTime
@@ -16448,7 +16452,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Unity.RenderPipelines.Universal.2D.Runtime::UnityEngine.Rendering.Universal.PixelPerfectCamera
   m_ComponentVersion: 1
-  m_AssetsPPU: 20
+  m_AssetsPPU: 48
   m_RefResolutionX: 1920
   m_RefResolutionY: 1080
   m_CropFrame: 0

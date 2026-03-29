@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/UiScenes/Cutscenes/Cutscene1.unity
     guid: 989ccc9b85cfc474187a1034da6f8baf
   - enabled: 1
+    path: Assets/Scenes/UiScenes/Cutscenes/Cutscene2.unity
+    guid: 687697481e1fb449cb1bbb4567b50f4f
+  - enabled: 1
     path: Assets/Scenes/IntroTutorial_A.unity
     guid: 6a4530246ebae454ab08196531ac9682
   - enabled: 1
