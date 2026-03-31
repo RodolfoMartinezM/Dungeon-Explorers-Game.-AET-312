@@ -23339,7 +23339,7 @@ Tilemap:
       - {fileID: -967142093, guid: 270a779a36c92f540a30ab80d536e20e, type: 3}
       - {fileID: -1846657914, guid: 270a779a36c92f540a30ab80d536e20e, type: 3}
       - {fileID: 1840293268, guid: 270a779a36c92f540a30ab80d536e20e, type: 3}
-      m_AnimationSpeed: 10
+      m_AnimationSpeed: 10.000001
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 324, y: -8, z: 0}
@@ -83676,10 +83676,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2482989760977114355, guid: bdd4a22d21b770846856de489ddcc534, type: 3}
       propertyPath: triggerExitEvent.triggerExitEvent.m_PersistentCalls.m_Calls.Array.size
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 2482989760977114355, guid: bdd4a22d21b770846856de489ddcc534, type: 3}
       propertyPath: triggerExitEvent.triggerExitEvent.m_PersistentCalls.m_Calls.Array.data[2].m_Mode
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2482989760977114355, guid: bdd4a22d21b770846856de489ddcc534, type: 3}
+      propertyPath: triggerExitEvent.triggerExitEvent.m_PersistentCalls.m_Calls.Array.data[3].m_Mode
       value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2482989760977114355, guid: bdd4a22d21b770846856de489ddcc534, type: 3}
@@ -83695,6 +83699,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 6042654589391468404}
     - target: {fileID: 2482989760977114355, guid: bdd4a22d21b770846856de489ddcc534, type: 3}
+      propertyPath: triggerExitEvent.triggerExitEvent.m_PersistentCalls.m_Calls.Array.data[3].m_Target
+      value: 
+      objectReference: {fileID: 6042654589391468404}
+    - target: {fileID: 2482989760977114355, guid: bdd4a22d21b770846856de489ddcc534, type: 3}
       propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_BoolArgument
       value: 1
       objectReference: {fileID: 0}
@@ -83704,6 +83712,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2482989760977114355, guid: bdd4a22d21b770846856de489ddcc534, type: 3}
       propertyPath: triggerExitEvent.triggerExitEvent.m_PersistentCalls.m_Calls.Array.data[2].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2482989760977114355, guid: bdd4a22d21b770846856de489ddcc534, type: 3}
+      propertyPath: triggerExitEvent.triggerExitEvent.m_PersistentCalls.m_Calls.Array.data[3].m_CallState
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2482989760977114355, guid: bdd4a22d21b770846856de489ddcc534, type: 3}
@@ -83719,7 +83731,15 @@ PrefabInstance:
       value: SetActive
       objectReference: {fileID: 0}
     - target: {fileID: 2482989760977114355, guid: bdd4a22d21b770846856de489ddcc534, type: 3}
+      propertyPath: triggerExitEvent.triggerExitEvent.m_PersistentCalls.m_Calls.Array.data[3].m_MethodName
+      value: SetActive
+      objectReference: {fileID: 0}
+    - target: {fileID: 2482989760977114355, guid: bdd4a22d21b770846856de489ddcc534, type: 3}
       propertyPath: triggerExitEvent.triggerExitEvent.m_PersistentCalls.m_Calls.Array.data[2].m_TargetAssemblyTypeName
+      value: UnityEngine.GameObject, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 2482989760977114355, guid: bdd4a22d21b770846856de489ddcc534, type: 3}
+      propertyPath: triggerExitEvent.triggerExitEvent.m_PersistentCalls.m_Calls.Array.data[3].m_TargetAssemblyTypeName
       value: UnityEngine.GameObject, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 2482989760977114355, guid: bdd4a22d21b770846856de489ddcc534, type: 3}
@@ -83735,7 +83755,15 @@ PrefabInstance:
       value: show
       objectReference: {fileID: 0}
     - target: {fileID: 2482989760977114355, guid: bdd4a22d21b770846856de489ddcc534, type: 3}
+      propertyPath: triggerExitEvent.triggerExitEvent.m_PersistentCalls.m_Calls.Array.data[3].m_Arguments.m_StringArgument
+      value: show
+      objectReference: {fileID: 0}
+    - target: {fileID: 2482989760977114355, guid: bdd4a22d21b770846856de489ddcc534, type: 3}
       propertyPath: triggerExitEvent.triggerExitEvent.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 2482989760977114355, guid: bdd4a22d21b770846856de489ddcc534, type: 3}
+      propertyPath: triggerExitEvent.triggerExitEvent.m_PersistentCalls.m_Calls.Array.data[3].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 2587589757934661744, guid: bdd4a22d21b770846856de489ddcc534, type: 3}
