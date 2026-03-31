@@ -105873,10 +105873,18 @@ PrefabInstance:
       propertyPath: collectionTrigger.m_PersistentCalls.m_Calls.Array.data[3].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 1064422743443037845, guid: a62a28925bc4b624a9cea8a409cad72e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 3194891673471328560, guid: a62a28925bc4b624a9cea8a409cad72e, type: 3}
       propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 701259547624860965}
+    - target: {fileID: 3543687124900695572, guid: a62a28925bc4b624a9cea8a409cad72e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 7665926896024763211, guid: a62a28925bc4b624a9cea8a409cad72e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 56.5
