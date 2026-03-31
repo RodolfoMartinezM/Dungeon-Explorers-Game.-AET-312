@@ -331,7 +331,7 @@ TextureImporter:
         width: 48
         height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -353,7 +353,7 @@ TextureImporter:
         width: 64
         height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -362,6 +362,28 @@ TextureImporter:
       bones: []
       spriteID: 0aa3292e51f87e54f8596b536e0035d4
       internalID: -1222421440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasseteDisk
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c448bbec55bac642ab49d3df5385590
+      internalID: -66661085
       vertices: []
       indices: 
       edges: []
@@ -385,6 +407,7 @@ TextureImporter:
       4x4_RoyalBlock: -1222421440
       BlessedFounain_ON: 7623837134152735657
       BlessedFountain_OFF: -7745139202643642421
+      CasseteDisk: -66661085
       GildedLockdoor: 1821977165
       GildedPlatform: 492188524
       GildedPlatform_BackDecor: -1721279682
